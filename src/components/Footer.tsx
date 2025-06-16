@@ -59,13 +59,8 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/about" className="text-coklat-terang hover:text-white transition-colors">
-                  {content.footer.quickLinks.links.about}
-                </Link>
-              </li>
-              <li>
-                <Link href="/contact" className="text-coklat-terang hover:text-white transition-colors">
-                  {content.footer.quickLinks.links.contact}
+                <Link href="/feedback" className="text-coklat-terang hover:text-white transition-colors">
+                  {content.footer.quickLinks.links.feedback}
                   </Link>
               </li>
             </ul>

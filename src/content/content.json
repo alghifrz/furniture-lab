@@ -51,8 +51,7 @@
       "links": {
         "products": "Produk",
         "categories": "Kategori",
-        "about": "Tentang Kami",
-        "contact": "Kontak"
+        "feedback": "Feedback"
       }
     },
     "customerService": {
@@ -66,8 +65,8 @@
     },
     "contact": {
       "title": "Hubungi Kami",
-      "email": "terrafurniture.ind@gmail.com",
-      "phone": "+62 123 4567 890"
+      "email": "terrafurniturelab@gmail.com",
+      "phone": "+62 858 6791 0422"
     },
     "address": {
       "title": "Alamat Kami",
